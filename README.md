@@ -1,4 +1,4 @@
-# Mais Beleza
+# Mais Beleza 💅
 
 `Análise e Desenvolvimento de Sistemas - PUC MINAS`
 
