@@ -33,13 +33,12 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Profissionais que desejam gerenciar seu negócio de maneira mais eficiente e clientes que desejam ter autonomia no agendamento de serviços de beleza.
-
+Estabeleceu-se como público-alvo desta aplicação móvel profissionais que desejam gerenciar seu negócio de maneira mais eficiente e clientes que desejam ter autonomia no agendamento de serviços de beleza.
 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-pmv-ads-2023-2-e4-proj-dad-t3/assets/100734910/3c21045d-8db2-4bf4-8cf3-fabb0b67a570)
 
+Figura 1 - Mapa de stakeholders
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
