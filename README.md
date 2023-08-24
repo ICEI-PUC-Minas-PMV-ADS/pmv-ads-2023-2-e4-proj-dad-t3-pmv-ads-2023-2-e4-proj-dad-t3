@@ -6,7 +6,7 @@
 
 `2/2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo deste projeto é a criação de uma aplicação, voltada para os Microempreendedores Individuais (MEI) do ramo da beleza, com intuito de auxiliá-los na gestão de seus negócios. 
 
 ## Integrantes
 
