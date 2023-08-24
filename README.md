@@ -1,4 +1,5 @@
 # Mais Beleza 💅
+![Mais Beleza](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-pmv-ads-2023-2-e4-proj-dad-t3/assets/100447878/3718296b-fd8c-4d28-94db-b558babc2144)
 
 `Análise e Desenvolvimento de Sistemas - PUC MINAS`
 
